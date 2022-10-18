@@ -1,2 +1,3 @@
-# mydocsifyblog
-my first blog
+# Headline
+
+> An awesome project.
